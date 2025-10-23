@@ -8,4 +8,4 @@
      4. \setdefaultlanguage{greek} 
      5. \setotherlanguage{english}
 
-##Now you can write in both greek and english
+## Now you can write in both greek and english
